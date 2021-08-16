@@ -1,3 +1,3 @@
 # SnakeGame
 
-Colleage snake case game with C++ and GLUT
+Colleage snake game with C++ and GLUT
